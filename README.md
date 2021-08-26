@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mohithreddy777
+- 👀 I’m interested in learning about software development.
+- 🌱 I’m currently learning Linux.
+- 💞️ I’m looking to collaborate on tinygrad by @geohotz
+- 📫 mail me on svenkatamohithreddy
